@@ -2,5 +2,3 @@ streamlit
 SpeechRecognition
 pydub
 streamlit-webrtc
-ffmpeg
-avconv
